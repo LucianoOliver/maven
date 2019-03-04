@@ -27,8 +27,8 @@
 	</build>
 	<dependencies>
 		<dependency>
-			<groupId>banco24horasparent</groupId>
-			<artifactId>banco24horas</artifactId>
+			<groupId>banco</groupId>
+			<artifactId>banco-24horas</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>

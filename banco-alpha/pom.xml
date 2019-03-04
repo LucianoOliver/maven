@@ -27,18 +27,20 @@
 	</build>
 	<dependencies>
 		<dependency>
-			<groupId>banco24horasparent</groupId>
-			<artifactId>banco24horas</artifactId>
+			<groupId>banco</groupId>
+			<artifactId>banco-24horas</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>org.mockito</groupId>
 			<artifactId>mockito-all</artifactId>
+				<version>1.9.5</version>
 			<scope>test</scope>
 		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
+			<version>4.12</version>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>

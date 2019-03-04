@@ -4,7 +4,7 @@
 
 	<parent>
 		<groupId>banco</groupId>
-		<artifactId>banco</artifactId>
+		<artifactId>banco-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath>../banco-parent/</relativePath>
 	</parent>
